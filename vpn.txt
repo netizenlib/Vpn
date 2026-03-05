@@ -3,7 +3,7 @@
 # Date/Time: 2026-03-05 / 19:58 (Moscow)
 # Количество: 35
 
-vless://c2892d08-65e0-49f0-a989-c7a8bc254f54@server3.goodbyevpn.pro:443?type=grpc&security=reality&encryption=none&pbk=e0q3SEoWy2iXElalTNz3uIxacEw3K5QlRGJoLRBGLRg&sid=ffa55809e7b62755&sni=max.ru&mode=multi&serviceName=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5BSNI-RU%5D%20max.ru
+vless://c2892d08-65e0-49f0-a989-c7a8bc254f54@server3.goodbyevpn.pro:443?type=grpc&security=reality&encryption=none&pbk=e0q3SEoWy2iXElalTNz3uIxacEw3K5QlRGJoLRBGLRg&sid=ffa55809e7b62755&sni=max.ru&mode=multi&serviceName=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5BSNI-RU%5D%20@satanist_cfg
 vless://cc637580-5f1a-46ff-8786-f4980bedbf19@est.prod.n7.homes:8443?type=tcp&security=reality&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&path=&host=#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5BSNI-RU%5D%20sun6-21.userapi.com
 vless://43588bac-2301-461e-8947-6b73ffbd39bf@83.147.255.191:9443?type=grpc&security=reality&encryption=none&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2&sni=eh.vk.ru&mode=gun&serviceName=xyz#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20eh.vk.ru
 vless://e7e6eebb-fd0f-4398-a0f9-f6995726dcba@p2s1.buzzvpn.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Wy1_77CFh3FRBE9vkZAXNX4DzdXHMccuuD6M3zvdol0&sid=bc&sni=eh.vk.com&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20eh.vk.com
