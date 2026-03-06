@@ -1,9 +1,21 @@
 # profile-title: Satanist VPN
 # profile-update-interval: 5
 # Date/Time: 2026-03-05 / 19:38 (Moscow)
-# Количество: 45
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+# Количество: 63
 
+vless://dbcdd65d-637b-4d93-b0c3-11707ff08e00@Satanist_CFG:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=20kWWWp6YwJujT1penAu1FD_uvm6dcJoj2w-ZZ-JVSk&sid=9dfefbaf7319b348#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://dbcdd65d-637b-4d93-b0c3-11707ff08e00@Satanist_CFG:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=20kWWWp6YwJujT1penAu1FD_uvm6dcJoj2w-ZZ-JVSk&sid=9dfefbaf7319b348#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://f1449968-0329-468b-b56b-1c573ac2a767@Satanist_CFG:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=eh.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://4499c111-b481-45e2-a457-ef70072c6232@Satanist_CFG:9443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&sni=www.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@Satanist_CFG:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=arthemis-recuperation.com&pbk=RoB91ttXT8mkR2WITrvNc9gV7plyLWS4xbVxCmzOKF0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@Satanist_CFG:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=3Sv23xq-91ymYjcCOXEBkQ-CRRC-KiB0PMNxjfehuHA#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@Satanist_CFG:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=3Sv23xq-91ymYjcCOXEBkQ-CRRC-KiB0PMNxjfehuHA#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@Satanist_CFG:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=3Sv23xq-91ymYjcCOXEBkQ-CRRC-KiB0PMNxjfehuHA#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@Satanist_CFG:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-21.userapi.com&pbk=CtX82DkTEpR5mNMPTpCHf2tkodeEDTjarulWEUUh4gY#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://5d4af820-c577-460f-bca0-915536e43eb8@Satanist_CFG:9443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&sni=travel.@Satanist_CFGndex.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.5.6:8081?type=tcp&security=reality&encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://f1449968-0329-468b-b56b-1c573ac2a767@Satanist_CFG:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2AОбход%5D%20@Satanist_CFG
+vless://7da8c48a-464c-4761-8ed2-091796b7db12@Satanist_CFG:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dio0MJWgM9KngVLdKXRdEodFBiYd9bJI-b3bzopZhjI&sid=5FA44664f6a566d3&sni=ads.x5.ru#%F0%9F%8C%90%20Россия%20%7C%20%5BIPv6%5D%20%5B%2AОбход%5D%20@Satanist_CFG
 {
   "dns": {
     "servers": [
@@ -85,303 +97,17 @@
       },
       "streamSettings": {
         "network": "tcp",
+        "tcpSettings": {},
         "security": "reality",
         "realitySettings": {
           "serverName": "yandex.ru",
-          "publicKey": "oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy1",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 6443,
-            "users": [
-              {
-                "id": "dbcdd65d-637b-4d93-b0c3-11707ff08e00",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "ads.x5.ru",
-          "publicKey": "20kWWWp6YwJujT1penAu1FD_uvm6dcJoj2w-ZZ-JVSk",
-          "shortId": "9dfefbaf7319b348",
-          "fingerprint": "firefox",
-          "show": false
+          "show": false,
+          "publicKey": "oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM"
         }
       }
     },
     {
       "tag": "proxy2",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 6443,
-            "users": [
-              {
-                "id": "dbcdd65d-637b-4d93-b0c3-11707ff08e00",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "ads.x5.ru",
-          "publicKey": "20kWWWp6YwJujT1penAu1FD_uvm6dcJoj2w-ZZ-JVSk",
-          "shortId": "9dfefbaf7319b348",
-          "fingerprint": "firefox",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy3",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 443,
-            "users": [
-              {
-                "id": "f1449968-0329-468b-b56b-1c573ac2a767",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "eh.vk.com",
-          "publicKey": "EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14",
-          "shortId": "425ba80cd1a821a8",
-          "fingerprint": "chrome",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy4",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 9443,
-            "users": [
-              {
-                "id": "4499c111-b481-45e2-a457-ef70072c6232",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "www.vk.com",
-          "publicKey": "59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy5",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 443,
-            "users": [
-              {
-                "id": "5aa188ea-db1b-4121-82f8-4eb1452cc052",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "arthemis-recuperation.com",
-          "publicKey": "RoB91ttXT8mkR2WITrvNc9gV7plyLWS4xbVxCmzOKF0",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy6",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 443,
-            "users": [
-              {
-                "id": "5aa188ea-db1b-4121-82f8-4eb1452cc052",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "ads.x5.ru",
-          "publicKey": "3Sv23xq-91ymYjcCOXEBkQ-CRRC-KiB0PMNxjfehuHA",
-          "fingerprint": "chrome",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy7",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 443,
-            "users": [
-              {
-                "id": "5aa188ea-db1b-4121-82f8-4eb1452cc052",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "ads.x5.ru",
-          "publicKey": "3Sv23xq-91ymYjcCOXEBkQ-CRRC-KiB0PMNxjfehuHA",
-          "fingerprint": "qq",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy8",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 443,
-            "users": [
-              {
-                "id": "5aa188ea-db1b-4121-82f8-4eb1452cc052",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "ads.x5.ru",
-          "publicKey": "3Sv23xq-91ymYjcCOXEBkQ-CRRC-KiB0PMNxjfehuHA",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy9",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 443,
-            "users": [
-              {
-                "id": "5aa188ea-db1b-4121-82f8-4eb1452cc052",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "sun6-21.userapi.com",
-          "publicKey": "CtX82DkTEpR5mNMPTpCHf2tkodeEDTjarulWEUUh4gY",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy10",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 9443,
-            "users": [
-              {
-                "id": "5d4af820-c577-460f-bca0-915536e43eb8",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "travel.@Satanist_CFGndex.ru",
-          "publicKey": "59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy11",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -404,67 +130,7 @@
           "serverName": "ads.x5.ru",
           "publicKey": "EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14",
           "shortId": "425ba80cd1a821a8",
-          "fingerprint": "chrome",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy12",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 8081,
-            "users": [
-              {
-                "id": "f1449968-0329-468b-b56b-1c573ac2a767",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "eh.vk.com",
-          "publicKey": "EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14",
-          "shortId": "425ba80cd1a821a8",
-          "fingerprint": "chrome",
-          "show": false
-        }
-      }
-    },
-    {
-      "tag": "proxy13",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "Satanist_CFG",
-            "port": 443,
-            "users": [
-              {
-                "id": "7da8c48a-464c-4761-8ed2-091796b7db12",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "ads.x5.ru",
-          "publicKey": "dio0MJWgM9KngVLdKXRdEodFBiYd9bJI-b3bzopZhjI",
-          "shortId": "5FA44664f6a566d3",
-          "fingerprint": "chrome",
-          "show": false
+          "fingerprint": "chrome"
         }
       }
     },
