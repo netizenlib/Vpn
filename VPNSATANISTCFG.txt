@@ -1,6 +1,9 @@
-# profile-title: Satanist VPN
+## profile-title: Satanist VPN
 # profile-update-interval: 1
 # Date/Time: 2026-03-05 / 19:38 (Moscow)
+# traffic-limit: 20
+# traffic-used: 11.0
+# expire-date: 2026-03-11
 # Количество: 45
 
 vless://43588bac-2301-461e-8947-6b73ffbd39bf@95.163.210.225:443?type=grpc&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=api.avito.ru&mode=gun&serviceName=xyz#%F0%9F%87%BA%F0%9F%87%B8%20Америка%20%5B%2A1%5D%20ОБХОД
