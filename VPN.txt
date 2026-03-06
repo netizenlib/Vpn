@@ -1,5 +1,5 @@
 # profile-title: Satanist VPN
-# profile-update-interval: 5
+# profile-update-interval: 1
 # Date/Time: 2026-03-05 / 19:38 (Moscow)
 # Количество: 45
 
