@@ -1,5 +1,5 @@
 ## profile-title: Satanist VPN
-# profile-update-interval: 1
+# profile-update-interval: 2
 # Date/Time: 2026-03-05 / 19:38 (Moscow)
 # traffic-limit: 20
 # traffic-used: 11.0
