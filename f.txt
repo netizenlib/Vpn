@@ -1,12 +1,7 @@
 # profile-title: Jast VPN
 # profile-update-interval: 2
-# profile-description: Продлить| @Kaspersky_180
-# description: ла
-# Date/Time: 2026-03-05 / 19:38 (Moscow)
 # traffic-limit: 20
-# traffic-used: 11.0
+# traffic-used: 0
 # expire-date: 2026-03-11
-# Количество: 46
 
-vless://afe66c77-02b4-4bda-8404-23f08082ca60@9c87a99c-ecfd1m.109.v-tun.com:9443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=celular.vk.com&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spiderX=%2F&fp=qq&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20JAST%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20(%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%B2%20%D1%82%D0%B3%20%D1%83%20%40topvpnkey)
-vless://cb22c1a5-b507-4c3e-8582-13cfabfbfb8f@51.250.15.40:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=yARzjZfpe4T3ecm5lnnHcfJw5HB-iVC&sid=809b762e0b21662d&fp=chrome&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20NEW%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1%20LTE%20%E2%84%96%202%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94
+vless://afe66c77-02b4-4bda-8404-23f08082ca60@9c87a99c-ecfd1m.109.v-tun.com:9443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=celular.vk.com&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spiderX=%2F&fp=qq&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20JAST%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20
