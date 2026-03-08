@@ -1,0 +1,8 @@
+# profile-title: Jast VPN
+# profile-update-interval: 2
+# traffic-limit: 20
+# traffic-used: 0.8134
+# expire-date: 2026-03-08
+
+vless://afe66c77-02b4-4bda-8404-23f08082ca60@9c87a99c-ecfd1m.109.v-tun.com:9443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=celular.vk.com&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spiderX=%2F&fp=qq&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20JAST%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4
+vless://de29022d-eed6-43be-805f-6bc1d80db8d6@89.106.89.202:2000?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%20Germany%20(%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD)
