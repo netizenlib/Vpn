@@ -2,12 +2,6 @@
 # profile-update-interval: 1
 # profile-expiry: 2040-06-08 (14 лет)
 # description: Мощный и стабильный VPN от NELA. Максимальная скорость, защита и свобода.
-# description: Доступны серверы: Канада, Финляндия, Нидерланды, Германия.
-# description: Поддержка 24/7. Переподписка – раз в 14 лет.
-#
-# ⚠️ После 8 июня 2040 года серверы будут отключены.
-# Вместо них появятся заглушки:
-# -------------------------------------------------
 
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🇨🇦 Канада ⚡
 
@@ -16,8 +10,3 @@ vless://eab17292-8137-49bf-a6c8-826f998a71e8@103.214.69.160:3443?encryption=none
 vless://eab17292-8137-49bf-a6c8-826f998a71e8@144.31.207.217:6757?encryption=none&type=ws&path=%2Fvless&security=none#🇳🇱 Нидерланды ⚡
 
 vless://eab17292-8137-49bf-a6c8-826f998a71e8@2.26.125.136:2053?encryption=none&type=ws&path=%2Fvless&security=none#🇩🇪 Германия ⚡
-
-# -------------------------------------------------
-# Серверы, которые появятся после окончания подписки:
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none#Подписка закончилась
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none#Оплатите подписку!
