@@ -10,3 +10,5 @@ vless://eab17292-8137-49bf-a6c8-826f998a71e8@103.214.69.160:3443?encryption=none
 vless://eab17292-8137-49bf-a6c8-826f998a71e8@144.31.207.217:6757?encryption=none&type=ws&path=%2Fvless&security=none#🇳🇱 Нидерланды ⚡
 
 vless://eab17292-8137-49bf-a6c8-826f998a71e8@2.26.125.136:2053?encryption=none&type=ws&path=%2Fvless&security=none#🇩🇪 Германия ⚡
+
+vless://1ab59c5d-5d12-4501-90c4-56bb51bd71b9@rf1.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf1.o4ka-internet.com&fp=random&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#🇷🇺 Россия (Ютуб без рекламы) ⚡
