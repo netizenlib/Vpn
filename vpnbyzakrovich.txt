@@ -1,9 +1,5 @@
 # profile-title: NELA VPN PREMIUM
-# profile-update-interval: 1
-# profile-expiry: 2040-06-08 (14 лет)
-# description: Мощный и стабильный VPN от NELA. Максимальная скорость, защита и свобода.
-
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🇨🇦 Канада ⚡
+# profile-update-interval: 3
 
 vless://eab17292-8137-49bf-a6c8-826f998a71e8@103.214.69.160:3443?encryption=none&type=grpc&serviceName=grpc&security=none#🇫🇮 Финляндия ⚡
 
@@ -12,3 +8,11 @@ vless://eab17292-8137-49bf-a6c8-826f998a71e8@144.31.207.217:6757?encryption=none
 vless://eab17292-8137-49bf-a6c8-826f998a71e8@2.26.125.136:2053?encryption=none&type=ws&path=%2Fvless&security=none#🇩🇪 Германия ⚡
 
 vless://1ab59c5d-5d12-4501-90c4-56bb51bd71b9@rf1.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf1.o4ka-internet.com&fp=random&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#🇷🇺 Россия (Ютуб без рекламы) ⚡
+
+vless://eab17292-8137-49bf-a6c8-826f998a71e8@swedentest.mooo.com:443?encryption=none&type=ws&path=%2Fpoland&security=none#🇸🇪 Швеция ⚡
+
+vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@147.45.42.233:9446?encryption=none&security=reality&type=grpc&serviceName=grpc&sni=yandex.ru&fp=chrome&pbk=EI6Bqxo1m5rcjOVm_xmqYVA0op2elPZI9BblZwdntD8&sid=aabb#🇫🇷 Франция ⚡
+
+vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@78.159.250.70:20447?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=xBpyo1hUqSIC_DjeVuTDN1EqAsTnFNJPDgBoJZ79clw&sid=aabb#🇩🇪 Обход белых списков #1 ⚡
+
+vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@78.159.250.70:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.max.ru&fp=chrome&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb#🇦🇹 Обход белых списков #2 ⚡
