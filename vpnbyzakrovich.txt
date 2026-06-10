@@ -1,5 +1,6 @@
 # profile-title: NELA VPN PREMIUM
 # profile-update-interval: 3
+#hide-settings: 1
 
 vless://eab17292-8137-49bf-a6c8-826f998a71e8@103.214.69.160:3443?encryption=none&type=grpc&serviceName=grpc&security=none#🇫🇮 Финляндия ⚡
 
@@ -11,8 +12,18 @@ vless://1ab59c5d-5d12-4501-90c4-56bb51bd71b9@rf1.o4ka-internet.com:443?encryptio
 
 vless://eab17292-8137-49bf-a6c8-826f998a71e8@swedentest.mooo.com:443?encryption=none&type=ws&path=%2Fpoland&security=none#🇸🇪 Швеция ⚡
 
-vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@147.45.42.233:9446?encryption=none&security=reality&type=grpc&serviceName=grpc&sni=yandex.ru&fp=chrome&pbk=EI6Bqxo1m5rcjOVm_xmqYVA0op2elPZI9BblZwdntD8&sid=aabb#🇫🇷 Франция ⚡
+vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@baltic.kyras.pw:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=baltic.kyras.pw&fp=firefox&pbk=H9ENeTf1FYRlQXCUtwsGYiaU8DcSs9BQ84UG4I8NC2M&sid=1a7f16bb232ffad8#🇪🇪 Эстония ⚡
+
+vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@phone.kyras.pw:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=phone.kyras.pw&fp=firefox&pbk=DH6CrreTn51ufuxi0PWOyr0Yv8y3xJJl466H2lg8RAU&sid=3667e4076bff2179#🇺🇸 США ⚡
+
+vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@baget.disavi.store:2443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=baget.disavi.store&fp=firefox&pbk=15ciSc2Mlffjnc7e6z9OxLgwBjCxbeK92SA9xaYyxR0&sid=fd41b14dfdff49e2#🇰🇿 Казахстан ⚡
+
+vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@neon.kyras.pw:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=neon.kyras.pw&fp=firefox&pbk=d49w9nO5eBOmVf_el0jFL-ptFgjwRxtWt3LQz0KPGDI&sid=776398db0029c0ba#🇵🇱 Польша ⚡
+
+vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@79.174.94.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=80dOzMTKdkf6izLi_1GYQKNjubs5PVsLj5vVN5saECw&sid=fa2b9e3ffb8649b5#🇷🇺 Россия (REALITY) ⚡
 
 vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@78.159.250.70:20447?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=xBpyo1hUqSIC_DjeVuTDN1EqAsTnFNJPDgBoJZ79clw&sid=aabb#🇩🇪 Обход белых списков #1 ⚡
 
 vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@78.159.250.70:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.max.ru&fp=chrome&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb#🇦🇹 Обход белых списков #2 ⚡
+
+vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@147.45.42.233:9446?encryption=none&security=reality&type=grpc&serviceName=grpc&sni=yandex.ru&fp=chrome&pbk=EI6Bqxo1m5rcjOVm_xmqYVA0op2elPZI9BblZwdntD8&sid=aabb#🇫🇷 Обход белых списков #3 ⚡
