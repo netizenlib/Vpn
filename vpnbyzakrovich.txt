@@ -1,6 +1,7 @@
 # profile-title: NELA VPN PREMIUM
-# profile-update-interval: 3
-#hide-settings: 1
+# profile-update-interval: 1
+# profile-expiry: 2040-06-08 (14 лет)
+# description: Мощный и стабильный VPN от NELA. Максимальная скорость, защита и свобода.
 
 vless://eab17292-8137-49bf-a6c8-826f998a71e8@103.214.69.160:3443?encryption=none&type=grpc&serviceName=grpc&security=none#🇫🇮 Финляндия ⚡
 
@@ -22,8 +23,8 @@ vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@neon.kyras.pw:443?encryption=none&f
 
 vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@79.174.94.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=80dOzMTKdkf6izLi_1GYQKNjubs5PVsLj5vVN5saECw&sid=fa2b9e3ffb8649b5#🇷🇺 Россия (REALITY) ⚡
 
-vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@78.159.250.70:20447?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=xBpyo1hUqSIC_DjeVuTDN1EqAsTnFNJPDgBoJZ79clw&sid=aabb#🇩🇪 Обход белых списков #1 ⚡
+vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@ake.disavi.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ake.disavi.store&fp=firefox&pbk=YTQPm8WvuFULROUJmIrPhvb10GX1kmOAJSFaYfEspjE&sid=05740c815352a5fc#🇷🇺 Обход белых списков #1 ⚡
 
-vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@78.159.250.70:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.max.ru&fp=chrome&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb#🇦🇹 Обход белых списков #2 ⚡
+vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@baget.disavi.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=baget.disavi.store&fp=firefox&pbk=ENF3FIYH6q3TmMYwtCqyalDVFC0TzbUB8yHP_qvxUA4&sid=a27c82708ccd44c1#🇷🇺 Обход белых списков #2 ⚡
 
-vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@147.45.42.233:9446?encryption=none&security=reality&type=grpc&serviceName=grpc&sni=yandex.ru&fp=chrome&pbk=EI6Bqxo1m5rcjOVm_xmqYVA0op2elPZI9BblZwdntD8&sid=aabb#🇫🇷 Обход белых списков #3 ⚡
+vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@sleep.disavi.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sleep.disavi.store&fp=firefox&pbk=_MUGqHQn9UlPIKEr2ZetTBoVMWEwDr5DXkpKZwYmWDI&sid=f72ef96c890b45e1#🇷🇺 Обход белых списков #3 ⚡
