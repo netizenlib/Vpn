@@ -3,34 +3,22 @@
 # profile-expiry: 2040-06-08 (14 лет)
 # description: Мощный и стабильный VPN от NELA. Максимальная скорость, защита и свобода.
 
-vless://eab17292-8137-49bf-a6c8-826f998a71e8@103.214.69.160:3443?encryption=none&type=grpc&serviceName=grpc&security=none#🇫🇮 Финляндия ⚡
+vless://af464b05-d00e-4f79-9d6f-10fc39d9b37b@80.64.27.159:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gerre.eu.cc&fp=qq&pbk=z6WQuRnYDQ3ELjui32NCPJaOVVNHMsy-DyBXY_B7ZC4&sid=6ba85179e30d4fc2#🇸🇴⚡ Умный автовыбор @NelaVPNPremium
 
-vless://eab17292-8137-49bf-a6c8-826f998a71e8@144.31.207.217:6757?encryption=none&type=ws&path=%2Fvless&security=none#🇳🇱 Нидерланды ⚡
+vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@yui.kosmojoy.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd#🇨🇭⚡ Швейцария @NelaVPNPremium
 
-vless://eab17292-8137-49bf-a6c8-826f998a71e8@2.26.125.136:2053?encryption=none&type=ws&path=%2Fvless&security=none#🇩🇪 Германия ⚡
+vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@yui.kosmojoy.ru:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd#🇳🇴⚡ Норвегия @NelaVPNPremium
 
-vless://1ab59c5d-5d12-4501-90c4-56bb51bd71b9@rf1.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf1.o4ka-internet.com&fp=random&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#🇷🇺 Россия (Ютуб без рекламы) ⚡
+vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@ashley.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ashley.kosmolet.xyz&fp=firefox&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&sid=c78d9525a558f9f9#🇺🇸⚡ США @NelaVPNPremium
 
-vless://eab17292-8137-49bf-a6c8-826f998a71e8@swedentest.mooo.com:443?encryption=none&type=ws&path=%2Fpoland&security=none#🇸🇪 Швеция - Стокгольм 2 ⚡
+vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@yui.kosmojoy.ru:14443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd#🇹🇷⚡ Турция @NelaVPNPremium
 
-vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@147.45.42.233:9446?encryption=none&security=reality&type=grpc&serviceName=grpc&sni=yandex.ru&fp=chrome&pbk=EI6Bqxo1m5rcjOVm_xmqYVA0op2elPZI9BblZwdntD8&sid=aabb#🇫🇷 Франция (Обход белых списков) ⚡
+vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@mika.kosmojoy.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mika.kosmojoy.ru&fp=firefox&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&sid=2ea6b019aee171bc#🇰🇿⚡ Казахстан @NelaVPNPremium
 
-vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@baltic.kyras.pw:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=baltic.kyras.pw&fp=firefox&pbk=H9ENeTf1FYRlQXCUtwsGYiaU8DcSs9BQ84UG4I8NC2M&sid=1a7f16bb232ffad8#🇪🇪 Эстония ⚡
+vless://be42e1f3-89c7-4d3d-a009-f42f8b6539cd@ru1.coconutstrip.co:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru1.coconutstrip.co&fp=firefox&pbk=7WhA-qKOcqhP_WIJQSwTKoO7PiaeAHvxEwpMmnXnCSk#🇷🇺⚡ Youtube без рекламы @NelaVPNPremium
 
-vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@phone.kyras.pw:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=phone.kyras.pw&fp=firefox&pbk=DH6CrreTn51ufuxi0PWOyr0Yv8y3xJJl466H2lg8RAU&sid=3667e4076bff2179#🇺🇸 США ⚡
+vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@miya.kosmolet.me:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d#🇷🇺⚡ YouTube без рекламы 2 @NelaVPNPremium
 
-vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@baget.disavi.store:2443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=baget.disavi.store&fp=firefox&pbk=15ciSc2Mlffjnc7e6z9OxLgwBjCxbeK92SA9xaYyxR0&sid=fd41b14dfdff49e2#🇰🇿 Казахстан ⚡
+vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@kawaii.kosmolet.me:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=ogfHhWRjGLtuiYRXK5C9FOV7JMJJXaI4ZayJeuXp810&sid=30095c6f0c#🇷🇺⚡ Белые списки @NelaVPNPremium
 
-vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@neon.kyras.pw:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=neon.kyras.pw&fp=firefox&pbk=d49w9nO5eBOmVf_el0jFL-ptFgjwRxtWt3LQz0KPGDI&sid=776398db0029c0ba#🇵🇱 Польша ⚡
-
-vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@79.174.94.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=80dOzMTKdkf6izLi_1GYQKNjubs5PVsLj5vVN5saECw&sid=fa2b9e3ffb8649b5#🇷🇺 Россия (REALITY) ⚡
-
-vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@83.217.9.86:9442?encryption=none&security=reality&type=grpc&serviceName=grpc&sni=yandex.ru&fp=chrome&pbk=Lrs7N2B50flCwslHjPgsUcS1qE6yiC3DE-TuFvWYDwE&sid=aabb#🇹🇷 Турция ⚡
-
-vless://37fcbbf7-ac8d-43ab-b45d-e5f33b263565@77.73.131.131:9445?encryption=none&security=reality&type=grpc&serviceName=grpc&sni=yandex.ru&fp=chrome&pbk=XHldp4go073UzmJ70rAD3_igX776DhdwtX0e3GOpEGM&sid=aabb#🇦🇹 Австрия ⚡
-
-vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@ake.disavi.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ake.disavi.store&fp=firefox&pbk=YTQPm8WvuFULROUJmIrPhvb10GX1kmOAJSFaYfEspjE&sid=05740c815352a5fc#🇷🇺 Обход белых списков #1 ⚡
-
-vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@baget.disavi.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=baget.disavi.store&fp=firefox&pbk=ENF3FIYH6q3TmMYwtCqyalDVFC0TzbUB8yHP_qvxUA4&sid=a27c82708ccd44c1#🇷🇺 Обход белых списков #2 ⚡
-
-vless://ae6a51c2-0196-404b-88b5-44c3d935fd28@sleep.disavi.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sleep.disavi.store&fp=firefox&pbk=_MUGqHQn9UlPIKEr2ZetTBoVMWEwDr5DXkpKZwYmWDI&sid=f72ef96c890b45e1#🇷🇺 Обход белых списков #3 ⚡
+vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@aneta.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aneta.kosmolet.xyz&fp=firefox&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4#🇵🇱⚡ Польша @NelaVPNPremium
