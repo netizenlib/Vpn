@@ -5,9 +5,7 @@
 
 vless://af464b05-d00e-4f79-9d6f-10fc39d9b37b@80.64.27.159:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gerre.eu.cc&fp=qq&pbk=z6WQuRnYDQ3ELjui32NCPJaOVVNHMsy-DyBXY_B7ZC4&sid=6ba85179e30d4fc2#🇸🇴⚡ Умный автовыбор | @NelaVPNPremium
 
-vless://b7e3a15c-7c28-42ea-842e-f2902b05eae0@84.201.158.182:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=y9hgkaFKFTgKL5PHsksGNKuSrd7jBysJ6rBHktu2k1o&sid=6ba85179e30d4fc2#🇸🇴⚡ Авто-выбор | Белые списки | @NelaVPNPremium
-
-vless://be42e1f3-89c7-4d3d-a009-f42f8b6539cd@ru1.coconutstrip.co:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru1.coconutstrip.co&fp=firefox&pbk=7WhA-qKOcqhP_WIJQSwTKoO7PiaeAHvxEwpMmnXnCSk#🇷🇺⚡ Youtube без рекламы #1 | @NelaVPNPremium
+vless://67a9133f-10ea-43eb-bd78-6e1111d8a5b3@185.141.227.153:443?encryption=none&security=reality&type=grpc&serviceName=grpc&sni=ads.x5.ru&fp=chrome&pbk=PhTCNH7b0Vs9Xq6WQTUyp2WPbdX-Gl8F7SMIQoHeNGY#🇷🇺⚡ Авто Обход глушилок БС LTE | @NelaVPNPremium
 
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@miya.kosmolet.me:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d#🇷🇺⚡ YouTube без рекламы #2 | @NelaVPNPremium
 
@@ -26,8 +24,6 @@ vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@mika.kosmojoy.ru:443?encryption=non
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@aneta.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aneta.kosmolet.xyz&fp=firefox&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4#🇵🇱⚡ Польша | @NelaVPNPremium
 
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@haruhi.kosmojoy.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=firefox&pbk=iz8-XeicdHLjh10saIH8-xzYB33NUGxJCHRPkcDdrW4&sid=ce2491dd#🇫🇷⚡ Франция | @NelaVPNPremium
-
-vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@kawaii.kosmolet.me:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=ogfHhWRjGLtuiYRXK5C9FOV7JMJJXaI4ZayJeuXp810&sid=30095c6f0c#🇷🇺⚡ Белые списки | @NelaVPNPremium
 
 vless://bc6a929c-def5-4903-a7d0-f0822c327356@uk.motion-vpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.motion-vpn.com&fp=firefox&pbk=IY4hLHcko9ssHpOASf5giYZL4XMy0kGzkvi9n4PLtxg#🇬🇧⚡ Великобритания | @NelaVPNPremium
 
