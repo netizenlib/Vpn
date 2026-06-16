@@ -675,7 +675,7 @@ def main():
         print(f"🚫 Заблокированных: {len(blocked_users)}")
         print("="*60)
         
-        # Простое создание приложения (без лишних таймаутов)
+        # Создаём приложение (без лишних параметров – исправляет ошибку)
         app = Application.builder().token(BOT_TOKEN).build()
         
         # Регистрируем обработчики
@@ -693,7 +693,7 @@ def main():
         print("⚡ Используйте Ctrl+C для остановки")
         print("="*60)
         
-        # Запускаем с минимальными параметрами (без stop_signals и close_loop)
+        # Запускаем polling – минимальные параметры
         app.run_polling()
         
     except KeyboardInterrupt:
