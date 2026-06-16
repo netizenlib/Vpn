@@ -675,14 +675,10 @@ def main():
         print(f"🚫 Заблокированных: {len(blocked_users)}")
         print("="*60)
         
-        # Используем ApplicationBuilder с таймаутами
-        app = Application.builder() \
-            .token(BOT_TOKEN) \
-            .connect_timeout(30) \
-            .read_timeout(30) \
-            .write_timeout(30) \
-            .build()
+        # Простое создание приложения (без лишних таймаутов)
+        app = Application.builder().token(BOT_TOKEN).build()
         
+        # Регистрируем обработчики
         app.add_handler(CommandHandler("start", start))
         app.add_handler(CommandHandler("status", status_command))
         app.add_handler(CallbackQueryHandler(button_handler))
@@ -697,13 +693,8 @@ def main():
         print("⚡ Используйте Ctrl+C для остановки")
         print("="*60)
         
-        app.run_polling(
-            allowed_updates=Update.ALL_TYPES,
-            close_loop=False,
-            stop_signals=None,
-            poll_interval=1.0,
-            timeout=60
-        )
+        # Запускаем с минимальными параметрами (без stop_signals и close_loop)
+        app.run_polling()
         
     except KeyboardInterrupt:
         print("\n⚠️ Получен сигнал прерывания. Завершаю работу...")
