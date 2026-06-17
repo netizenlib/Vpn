@@ -3,13 +3,19 @@
 # profile-expiry: 2040-06-08 (14 лет)
 # description: Мощный и стабильный VPN от NELA. Максимальная скорость, защита и свобода.
 
-vless://af464b05-d00e-4f79-9d6f-10fc39d9b37b@80.64.27.159:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gerre.eu.cc&fp=qq&pbk=z6WQuRnYDQ3ELjui32NCPJaOVVNHMsy-DyBXY_B7ZC4&sid=6ba85179e30d4fc2#🇸🇴⚡ Умный автовыбор | @NelaVPNPremium
+vless://ce97886d-362a-45c9-94ad-b92254c540c2@stream.devsec.pro:443?encryption=none&type=ws&path=%2Fapi%2Flive%2Fupdates&host=stream.devsec.pro&security=tls&sni=stream.devsec.pro&fp=qq#🇷🇺⚡ Обход #1 | @NelaVPNPremium
 
-vless://67a9133f-10ea-43eb-bd78-6e1111d8a5b3@185.141.227.153:443?encryption=none&security=reality&type=grpc&serviceName=grpc&sni=ads.x5.ru&fp=chrome&pbk=PhTCNH7b0Vs9Xq6WQTUyp2WPbdX-Gl8F7SMIQoHeNGY#🇷🇺⚡ Авто Обход глушилок БС LTE | @NelaVPNPremium
+vless://ce97886d-362a-45c9-94ad-b92254c540c2@81.94.148.225:2443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sso.passport.yandex.ru&fp=qq&pbk=jfWufY49R4pa0FrLmcQ166K3wJo7ewhNh6fCmWT4FUs&sid=fdeb0cf8170ba779#🇷🇺⚡ Обход #2 | @NelaVPNPremium
+
+vless://ce97886d-362a-45c9-94ad-b92254c540c2@178.250.243.129:8448?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1JWEcOJTr9pz1JV8gW_bJKJ0KhRGt4idgn6wqTBdHhE&sid=4db0ea49121de8e9#🇷🇺⚡ Обход #3 | @NelaVPNPremium
+
+vless://ce97886d-362a-45c9-94ad-b92254c540c2@81.94.148.140:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1vzpLaHSiLz55WzGNhTDzhyX5fTMSClFSXRYIjqbV3k&sid=6f8f97e747c3fab5#🇷🇺⚡ Обход #4 | @NelaVPNPremium
+
+vless://ce97886d-362a-45c9-94ad-b92254c540c2@185.141.227.160:9445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1vzpLaHSiLz55WzGNhTDzhyX5fTMSClFSXRYIjqbV3k&sid=6f8f97e747c3fab5#🇷🇺⚡ Обход #5 | @NelaVPNPremium
+
+vless://ce97886d-362a-45c9-94ad-b92254c540c2@31.129.42.75:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1vzpLaHSiLz55WzGNhTDzhyX5fTMSClFSXRYIjqbV3k&sid=6f8f97e747c3fab5#🇷🇺⚡ Обход #6 | @NelaVPNPremium
 
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@miya.kosmolet.me:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d#🇷🇺⚡ YouTube без рекламы #2 | @NelaVPNPremium
-
-vless://b7e3a15c-7c28-42ea-842e-f2902b05eae0@8-node-midas.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=qq&pbk=xx8vYPWtNhcn3i4iprMYCsURqX9hmTz_8tA_vuE1_GI&sid=d9662905#🇷🇺⚡ YouTube без рекламы #3 | @NelaVPNPremium
 
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@yui.kosmojoy.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd#🇨🇭⚡ Швейцария | @NelaVPNPremium
 
@@ -24,9 +30,3 @@ vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@mika.kosmojoy.ru:443?encryption=non
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@aneta.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aneta.kosmolet.xyz&fp=firefox&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4#🇵🇱⚡ Польша | @NelaVPNPremium
 
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@haruhi.kosmojoy.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=firefox&pbk=iz8-XeicdHLjh10saIH8-xzYB33NUGxJCHRPkcDdrW4&sid=ce2491dd#🇫🇷⚡ Франция | @NelaVPNPremium
-
-vless://bc6a929c-def5-4903-a7d0-f0822c327356@uk.motion-vpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.motion-vpn.com&fp=firefox&pbk=IY4hLHcko9ssHpOASf5giYZL4XMy0kGzkvi9n4PLtxg#🇬🇧⚡ Великобритания | @NelaVPNPremium
-
-vless://bc6a929c-def5-4903-a7d0-f0822c327356@es.motion-vpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=es.motion-vpn.com&fp=firefox&pbk=IY4hLHcko9ssHpOASf5giYZL4XMy0kGzkvi9n4PLtxg#🇪🇪⚡ Эстония | @NelaVPNPremium
-
-vless://96f73229-46ea-403b-9b89-d6f61d15223a@31.76.91.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.co.jp&fp=firefox&pbk=jS_9btIEiGu2uav-z0uMO9L4OuJMa9Ugq5vjmO-pTis&sid=d0e1f2a3#🇯🇵⚡ Япония | @NelaVPNPremium
