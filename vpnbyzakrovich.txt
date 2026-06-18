@@ -11,11 +11,7 @@ vless://ce97886d-362a-45c9-94ad-b92254c540c2@178.250.243.129:8448?encryption=non
 
 vless://ce97886d-362a-45c9-94ad-b92254c540c2@81.94.148.140:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1vzpLaHSiLz55WzGNhTDzhyX5fTMSClFSXRYIjqbV3k&sid=6f8f97e747c3fab5#🇷🇺⚡ Обход #4 | @NelaVPNPremium
 
-vless://ce97886d-362a-45c9-94ad-b92254c540c2@185.141.227.160:9445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1vzpLaHSiLz55WzGNhTDzhyX5fTMSClFSXRYIjqbV3k&sid=6f8f97e747c3fab5#🇷🇺⚡ Обход #5 | @NelaVPNPremium
-
-vless://ce97886d-362a-45c9-94ad-b92254c540c2@31.129.42.75:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1vzpLaHSiLz55WzGNhTDzhyX5fTMSClFSXRYIjqbV3k&sid=6f8f97e747c3fab5#🇷🇺⚡ Обход #6 | @NelaVPNPremium
-
-vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@miya.kosmolet.me:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d#🇷🇺⚡ YouTube без рекламы #2 | @NelaVPNPremium
+vless://a62fedc7-c512-4c15-afd8-5ed8c0cd520c@miya.kosmolet.me:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d#🇷🇺⚡ YouTube без рекламы | @NelaVPNPremium
 
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@yui.kosmojoy.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd#🇨🇭⚡ Швейцария | @NelaVPNPremium
 
@@ -25,8 +21,8 @@ vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@ashley.kosmolet.xyz:443?encryption=
 
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@yui.kosmojoy.ru:14443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd#🇹🇷⚡ Турция | @NelaVPNPremium
 
-vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@mika.kosmojoy.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mika.kosmojoy.ru&fp=firefox&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&sid=2ea6b019aee171bc#🇰🇿⚡ Казахстан | @NelaVPNPremium
+vless://a62fedc7-c512-4c15-afd8-5ed8c0cd520c@mika.kosmojoy.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mika.kosmojoy.ru&fp=firefox&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&sid=2ea6b019aee171bc#🇰🇿⚡ Казахстан | @NelaVPNPremium
 
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@aneta.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aneta.kosmolet.xyz&fp=firefox&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4#🇵🇱⚡ Польша | @NelaVPNPremium
 
-vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@haruhi.kosmojoy.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=firefox&pbk=iz8-XeicdHLjh10saIH8-xzYB33NUGxJCHRPkcDdrW4&sid=ce2491dd#🇫🇷⚡ Франция | @NelaVPNPremium
+vless://a62fedc7-c512-4c15-afd8-5ed8c0cd520c@haruhi.kosmojoy.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=firefox&pbk=iz8-XeicdHLjh10saIH8-xzYB33NUGxJCHRPkcDdrW4&sid=ce2491dd#🇫🇷⚡ Франция | @NelaVPNPremium
