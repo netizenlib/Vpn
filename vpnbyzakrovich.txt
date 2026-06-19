@@ -3,15 +3,39 @@
 # profile-expiry: 2040-06-08 (14 лет)
 # description: Мощный и стабильный VPN от NELA. Максимальная скорость, защита и свобода.
 
-vless://ce97886d-362a-45c9-94ad-b92254c540c2@stream.devsec.pro:443?encryption=none&type=ws&path=%2Fapi%2Flive%2Fupdates&host=stream.devsec.pro&security=tls&sni=stream.devsec.pro&fp=qq#🇷🇺⚡ Обход #1 | @NelaVPNPremium
+vless://25220990-c98e-45da-976a-b3520d46def0@82.26.157.85:38443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=Vaq6JqbkmCHpfJiOijNLU8ehMWWrZzpmu3CHHiEI_H4&sid=9f2a7c6e4b8d1a03#🇪🇺⚡ SMART Wi-Fi #1 | @NelaVPNPremium
 
-vless://ce97886d-362a-45c9-94ad-b92254c540c2@81.94.148.225:2443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sso.passport.yandex.ru&fp=qq&pbk=jfWufY49R4pa0FrLmcQ166K3wJo7ewhNh6fCmWT4FUs&sid=fdeb0cf8170ba779#🇷🇺⚡ Обход #2 | @NelaVPNPremium
+vless://25220990-c98e-45da-976a-b3520d46def0@153.76.122.190:65443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=firefox&pbk=hPDTXIeBNw2LZFkn465N7VXUmEaMFlz3C6cFOyPT-lE&sid=6ba85179e30d4fc2#🇪🇺⚡ SMART Wi-Fi #2 | @NelaVPNPremium
 
-vless://ce97886d-362a-45c9-94ad-b92254c540c2@178.250.243.129:8448?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1JWEcOJTr9pz1JV8gW_bJKJ0KhRGt4idgn6wqTBdHhE&sid=4db0ea49121de8e9#🇷🇺⚡ Обход #3 | @NelaVPNPremium
+vless://25220990-c98e-45da-976a-b3520d46def0@185.88.37.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=firefox&pbk=k7rCN_v4pkczvxuyO6KqWT2u1605r2eIq4x6kYsUPxk&sid=507859e8f3caf046#🇪🇺⚡ SMART Wi-Fi #3 | @NelaVPNPremium
 
-vless://ce97886d-362a-45c9-94ad-b92254c540c2@81.94.148.140:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1vzpLaHSiLz55WzGNhTDzhyX5fTMSClFSXRYIjqbV3k&sid=6f8f97e747c3fab5#🇷🇺⚡ Обход #4 | @NelaVPNPremium
+vless://25220990-c98e-45da-976a-b3520d46def0@94.16.119.97:58443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=-x0nuIOiclVrPBZOFKIt8NtIdLgZUuYaVpPDk6B50mE&sid=9b40e604f170216b#🇪🇺⚡ SMART Wi-Fi #4 | @NelaVPNPremium
+
+vless://25220990-c98e-45da-976a-b3520d46def0@us-03.elevengo.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us-03.elevengo.ru&fp=qq&pbk=oEWJ9HitYb6OCAG70BUPAJwlMiLCNHu-Ym5KUdDlFEA#🇪🇺⚡ SMART Wi-Fi #5 | @NelaVPNPremium
+
+vless://25220990-c98e-45da-976a-b3520d46def0@89.23.101.132:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.youtube.com&fp=firefox&pbk=dQNQHDhlvik4YepDuJDArA_Te1_z_BbdGbMCmUMx9yY&sid=7622d5fb56818ddd#🇪🇺⚡ SMART Wi-Fi #6 | @NelaVPNPremium
+
+vless://25220990-c98e-45da-976a-b3520d46def0@v-fr.elevengo.ru:58443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=2A3Zul5gck0TZflxN71i0SY2O31no8hFjFZw4CMFz2c&sid=561c263f#🇪🇺⚡ SMART LTE #1 | @NelaVPNPremium
+
+vless://25220990-c98e-45da-976a-b3520d46def0@v-pl.elevengo.ru:55443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=Fw91C5rhL7w_xvF1jDPs9kDv7LAZDFqWlxTpFCRVdnc&sid=a1b2c3d4#🇪🇺⚡ SMART LTE #2 | @NelaVPNPremium
+
+vless://25220990-c98e-45da-976a-b3520d46def0@cdn-de.elevengo.ru:54443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=Fw91C5rhL7w_xvF1jDPs9kDv7LAZDFqWlxTpFCRVdnc&sid=a1b2c3d4#🇪🇺⚡ SMART LTE #3 | @NelaVPNPremium
+
+vless://25220990-c98e-45da-976a-b3520d46def0@v-fr.elevengo.ru:58443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=2A3Zul5gck0TZflxN71i0SY2O31no8hFjFZw4CMFz2c&sid=561c263f#🇫🇷⚡ (4G/LTE) Белые списки | @NelaVPNPremium
+
+vless://25220990-c98e-45da-976a-b3520d46def0@v-pl.elevengo.ru:55443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=Fw91C5rhL7w_xvF1jDPs9kDv7LAZDFqWlxTpFCRVdnc&sid=a1b2c3d4#🇵🇱⚡ (4G/LTE) Белые списки | @NelaVPNPremium
+
+vless://25220990-c98e-45da-976a-b3520d46def0@89.23.101.132:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.youtube.com&fp=firefox&pbk=dQNQHDhlvik4YepDuJDArA_Te1_z_BbdGbMCmUMx9yY&sid=7622d5fb56818ddd#🇷🇺⚡ YouTube — Без рекламы + Inst | @NelaVPNPremium
+
+vless://a62fedc7-c512-4c15-afd8-5ed8c0cd520c@erika.kosmojoy.ru:9443?encryption=none&security=reality&type=grpc&serviceName=TunService&sni=max.ru&fp=firefox&pbk=gkkisMa7TUZyoSc0KxNOV96sImQmt1g4cRCnCHWuIDs&sid=ced491dd#🇷🇺⚡ Белые списки #1 | @NelaVPNPremium
+
+vless://a62fedc7-c512-4c15-afd8-5ed8c0cd520c@kawaii.kosmolet.me:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=ogfHhWRjGLtuiYRXK5C9FOV7JMJJXaI4ZayJeuXp810&sid=30095c6f0c#🇷🇺⚡ Белые списки #2 | @NelaVPNPremium
+
+vless://a62fedc7-c512-4c15-afd8-5ed8c0cd520c@cdn.kosmolet.me:443?encryption=none&type=xhttp&path=%2Fapi%2Fv1%2Fassets&mode=packet-up&security=tls&sni=cdn.kosmolet.me&fp=chrome&alpn=h2#🇷🇺⚡ Белые списки #3 | @NelaVPNPremium
 
 vless://a62fedc7-c512-4c15-afd8-5ed8c0cd520c@miya.kosmolet.me:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d#🇷🇺⚡ YouTube без рекламы | @NelaVPNPremium
+
+vless://a62fedc7-c512-4c15-afd8-5ed8c0cd520c@astrid.kosmolet.me:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=firefox&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da#🇸🇪⚡ Швеция | @NelaVPNPremium
 
 vless://3b473161-20c4-4c4c-a808-6a2785c31bf9@yui.kosmojoy.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd#🇨🇭⚡ Швейцария | @NelaVPNPremium
 
