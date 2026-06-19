@@ -1,7 +1,8 @@
 # profile-title: NELA VPN PREMIUM
 # profile-update-interval: 1
 # profile-expiry: 2040-06-08 (14 лет)
-# description: Мощный и стабильный VPN от NELA. Максимальная скорость, защита и свобода.
+# about: Мощный и стабильный VPN от NELA. Максимальная скорость, защита и свобода.
+# hide-settings: 1
 
 vless://25220990-c98e-45da-976a-b3520d46def0@82.26.157.85:38443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=Vaq6JqbkmCHpfJiOijNLU8ehMWWrZzpmu3CHHiEI_H4&sid=9f2a7c6e4b8d1a03#🇪🇺⚡ SMART Wi-Fi #1 | @NelaVPNPremium
 
