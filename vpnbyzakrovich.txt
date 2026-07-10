@@ -4,6 +4,15 @@
 # about: Мощный и стабильный VPN от NELA. Максимальная скорость, защита и свобода.
 # hide-settings: 1
 
+
+hysteria2://5fe09cc3-0556-4534-8d2f-8cf4672283c4@45.150.66.70:443?sni=gb1.apexvpn.space&alpn=h3&fp=chrome#🇬🇧⚡ Великобритания Скоростной | @NelaVPNPremium
+
+hysteria2://5fe09cc3-0556-4534-8d2f-8cf4672283c4@138.124.64.113:443?sni=pl1.apexvpn.space&alpn=h3&fp=chrome#🇵🇱⚡ Польша Скоростной | @NelaVPNPremium
+
+hysteria2://5fe09cc3-0556-4534-8d2f-8cf4672283c4@2.26.52.128:443?sni=fin1.apexvpn.space&alpn=h3&fp=qq#🇫🇮⚡ Финляндия Скоростной | @NelaVPNPremium
+
+hysteria2://5fe09cc3-0556-4534-8d2f-8cf4672283c4@87.120.84.189:443?sni=de1.apexvpn.space&alpn=h3&fp=ios#🇩🇪⚡ Германия Скоростной | @NelaVPNPremium
+
 vless://5fe09cc3-0556-4534-8d2f-8cf4672283c4@45.150.66.70:8444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kinopoisk.ru&fp=firefox&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&sid=a00661#🇬🇧⚡ Великобритания Premium #1 | @NelaVPNPremium
 
 vless://5fe09cc3-0556-4534-8d2f-8cf4672283c4@138.124.64.113:8444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kinopoisk.ru&fp=firefox&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&sid=a00661#🇵🇱⚡ Польша Premium #2 | @NelaVPNPremium
